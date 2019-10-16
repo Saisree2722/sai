@@ -1,0 +1,18 @@
+show databases;
+create database databasename;
+use database;
+create  
+
+
+
+=========================================================================
+ALIAS:-
+select columnname as Alias from tablename;
+              OR
+select columnname  Alias from tablename; 
+=========================================================================
+WHERE:-
+select *from tablename where condition;
+update tablename set columnname=value where condition;
+delete from tablename where  columnname=value;
+=========================================================================
